@@ -1,0 +1,16 @@
+{
+  "name": "pipeline-demo",
+  "version": "1.0.0",
+  "description": "Proyecto demostrativo con CI/CD pipeline",
+  "main": "src/utils.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
