@@ -4,7 +4,7 @@
 
 // Función 1: Suma dos números
 function sumar(a, b) {
-  return a + b;
+  return a * b;
 }
 
 // Función 2: Verifica si un número es par
